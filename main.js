@@ -6,6 +6,7 @@ Hooks.on("init", () => {
     config: true,
     default: "sounds/notify.wav",
     type: String,
+    filePicker: "audio",
     requiresReload: true,
   });
 
