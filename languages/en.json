@@ -1,0 +1,22 @@
+{
+  "warbler": {
+    "settings": {
+      "soundFile": {
+        "title": "Notification Sound",
+        "description": "The filepath to the sound that plays on chat message."
+      },
+      "enabled": {
+        "title": "Enable Chat Notifications",
+        "description": "Emits a notification sound every time a chat message is posted."
+      },
+      "muteActive": {
+        "title": "Mute When Active",
+        "description": "Will mute notification sounds when chat tab is active."
+      },
+      "muteRolls": {
+        "title": "Mute Rolls",
+        "description": "Will mute notification sounds for roll messages."
+      }
+    }
+  }
+}

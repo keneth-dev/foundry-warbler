@@ -1,0 +1,35 @@
+{
+  "id": "warbler",
+  "title": "Warbler",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "11.315"
+  },
+  "description": "A chat notifier module for FoundryVTT.",
+  "authors": [
+    {
+      "name": "Keneth",
+      "discord": "keneth_",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/keneth-dev/foundry-warbler",
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "scripts": [],
+  "esmodules": [
+    "main.js"
+  ],
+  "packs": [],
+  "changelog": "https://raw.githubusercontent.com/keneth-dev/foundry-warbler/main/CHANGELOG.md",
+  "manifest": "https://raw.githubusercontent.com/keneth-dev/foundry-warbler/main/module.json",
+  "download": "https://github.com/keneth-dev/foundry-warbler/archive/refs/heads/main.zip",
+  "readme": "https://github.com/keneth-dev/foundry-warbler",
+  "bugs": "https://github.com/keneth-dev/foundry-warbler/issues"
+}
